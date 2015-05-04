@@ -1,27 +1,26 @@
 {
   "lab": {
     "description": {
-      "name": "Solving Crosswords for Fun and Profit",
-      "id": "cse30",
+      "name": "Chemical Engineering",
+      "id": "che01",
       "status": "released",
-      "discipline": ["Computer Science", "Electronics & Communications"],
+      "discipline": ["Chemical Engineering"],
       "type": "Simulation",
       "server-side": true,
       "integration_level": 0,
       "developer": [
         {
-          "name": "Wit Cracker",
-          "title": "Professor",
-          "role": "Lab developer",
-          "organization": "teasers",
-          "institute": "Crossword University",
-          "web": "http://crossword.edu/faculty/cse/ai/witcrack.html",
-          "department": "Chaotic Intelligence",
+          "name": "pushpdeep",
+          "title": "manager",
+          "role": "int engineer",
+          "organization": "chemical engineering",
+          "institute": "IIT Bombay",
+          "web": "iitb.ac.in",
+          "department": "chemical engineering",
           "contact": {
-        	  "email": "witcracker@crossword.edu",
-        	  "alternate_email": "witcracker@ultramail.com",
-        	  "mobile_number": 888888888888, 
-        	  "office_number": 999999999999
+        	  "email": "pushpdeep@iitb.ac.in",
+        	         	  "mobile_number": 9096565576, 
+        	
           }
         }
       ]
